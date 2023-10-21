@@ -1,1 +1,1 @@
-# CalculadoraJava
+# Estudos em Java usando Swing
